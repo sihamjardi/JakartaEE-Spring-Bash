@@ -45,8 +45,7 @@ Ce TP montre comment réaliser ces opérations à travers des scripts Bash struc
 
 <img width="957" height="283" alt="Capture d&#39;écran 2025-11-25 232249" src="https://github.com/user-attachments/assets/3d33396f-c357-4c29-8d73-b5964a5f7423" />
 
-<img width="842" height="316" alt="image" src="https://github.com/user-attachments/assets/af94a23a-5155-46d1-87ea-cbf4e5109083" />
-
+<img width="895" height="350" alt="image" src="https://github.com/user-attachments/assets/35d7c36a-689e-481e-a0ca-9066ef16bafa" />
 
 
 
